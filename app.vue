@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col h-screen justify-between">
     <div class="flex flex-row">
-      <ResumeMainContent class="flex-1 mr-5" />
+      <ResumeMainContent class="flex-1 mr-10" />
       <SideBar class="flex-1" />
     </div>
     <FooterSection />

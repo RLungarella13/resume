@@ -12,7 +12,8 @@
 </template>
 
 <script setup lang="ts">
-import { soft_skills_data as softSkillsData } from "~/content/soft-skills";
+import { soft_skills_data as softSkillsData } from "/content/softSkills";
 </script>
 
 <style scoped></style>
+~/content/softSkills

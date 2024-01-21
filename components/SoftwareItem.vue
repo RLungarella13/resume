@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-row justify-between">
     <div class="font-mono text-sm">
-      {{ skillName }}
+      {{ softwareName }}
     </div>
     <div class="flex flex-row items-center">
       <div
@@ -17,7 +17,7 @@
 <script setup lang="ts">
 
 const props = defineProps({
-  skillName: {
+  softwareName: {
     type: String,
   },
   skillLevel: {
