@@ -1,13 +1,15 @@
 <template>
-    <div>
-
+  <div class="flex flex-row h-screen justify-between">
+    <div class="flex flex-col ">
+        <SiteSection/>
+        <hr/>
+        <SkillsSection/>
+        <hr/>
+        <SoftSkillSection/>
     </div>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>

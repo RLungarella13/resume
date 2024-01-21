@@ -4,6 +4,10 @@
 
 @layer components {
     body{
-        @apply bg-primary text-secondary px-96
+        @apply bg-primary text-secondary p-12; 
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.3vw;
     }
 }
