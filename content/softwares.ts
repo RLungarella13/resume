@@ -8,12 +8,12 @@ export const softwares_data = [
     {
         id: 2,
         name: "photoshop",
-        level: SkillLevel.INTERMEDIATE,
+        level: SkillLevel.ADVANCED,
     },
     {
         id: 3,
         name: "substance painter",
-        level: SkillLevel.INTERMEDIATE,
+        level: SkillLevel.ADVANCED,
     },
     {
         id: 4,

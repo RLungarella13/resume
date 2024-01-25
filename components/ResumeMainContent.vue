@@ -1,8 +1,8 @@
 <template>
   <div class="flex flex-col">
     <ResumeHeader />
-    <EducationSection />
     <ExperienceSection />
+    <EducationSection />
   </div>
 </template>
 

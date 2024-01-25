@@ -5,7 +5,7 @@ export default {
     colors: {
       'primary': '#F8F4EC',
       'secondary': '#323232',
-      'accent': '#F8F4EC',
+      'accent': '#FFBB64',
     },
   },
   plugins: [

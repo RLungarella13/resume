@@ -30,5 +30,10 @@ export const skills_data = [
         id:6,
         name: "Nuxt",
         level: SkillLevel.INTERMEDIATE,
+    },
+    {
+        id:7,
+        name: "Swift",
+        level: SkillLevel.INTERMEDIATE,
     }
 ]

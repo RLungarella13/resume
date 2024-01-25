@@ -14,7 +14,7 @@
       </div>
       <div class="text-2vw leading-none mb-4">{{ educationData.degree }}</div>
     </div>
-    <p>{{ educationData.description }}</p>
+    <p><span class="font-bold">Thesis - </span>{{ educationData.description }}</p>
   </div>
 </template>
 

@@ -10,6 +10,6 @@ export const sites_data = [
         id: 1,
         name: "Artstation",
         url: '/_nuxt/assets/icons/artstation.svg',
-        link: 'https://www.artstation.com/lungarellaraffaele'
+        link: 'https://lungarellaraffaele.artstation.com/'
     },
 ]

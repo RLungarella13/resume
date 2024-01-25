@@ -5,12 +5,11 @@
       <SkillItem :skillName="skill.name" :skillLevel="skill.level" />
     </div>
     <div class="bg-secondary text-primary py-3 px-4 rounded-lg mt-4">
-      <div class="text-[11px] font-semibold">Head Up</div>
+      <div class="text-[11px] font-semibold">Heads Up</div>
       <div
         class="text-[10px] "
       >
-        These are the language/frameworks I am currently studying in my github
-        page there are listed all the languages I worked with.
+        These are the language/frameworks I am currently studying. Check out my Github page to see a complete overwiew. 
       </div>
     </div>
   </div>

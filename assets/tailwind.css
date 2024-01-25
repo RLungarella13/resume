@@ -4,10 +4,11 @@
 
 @layer components {
     body{
-        @apply bg-primary text-secondary p-12; 
+        @apply bg-primary text-secondary p-12 overflow-auto; 
     }
     p{
         font-family: 'Times New Roman', Times, serif;
         font-size: 0.875rem;
+        text-align: justify;
     }
 }
