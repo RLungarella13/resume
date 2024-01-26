@@ -1,2 +1,1 @@
-# Resume
-[repository output](resume-raffaele-lungarella.pdf)
+[Open Resume](resume-raffaele-lungarella.pdf)
